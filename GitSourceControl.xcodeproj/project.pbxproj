@@ -11,6 +11,7 @@
 		38BA1DF32CC5039A00BE6848 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38BA1DF22CC5039A00BE6848 /* ContentView.swift */; };
 		38BA1DF52CC5039E00BE6848 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38BA1DF42CC5039E00BE6848 /* Assets.xcassets */; };
 		38BA1DF92CC5039E00BE6848 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38BA1DF82CC5039E00BE6848 /* Preview Assets.xcassets */; };
+		38BA1E002CC6333F00BE6848 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38BA1DFF2CC6333F00BE6848 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		38BA1DF42CC5039E00BE6848 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		38BA1DF62CC5039E00BE6848 /* GitSourceControl.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GitSourceControl.entitlements; sourceTree = "<group>"; };
 		38BA1DF82CC5039E00BE6848 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		38BA1DFF2CC6333F00BE6848 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				38BA1DF02CC5039A00BE6848 /* GitSourceControlApp.swift */,
 				38BA1DF22CC5039A00BE6848 /* ContentView.swift */,
+				38BA1DFF2CC6333F00BE6848 /* HomeView.swift */,
 				38BA1DF42CC5039E00BE6848 /* Assets.xcassets */,
 				38BA1DF62CC5039E00BE6848 /* GitSourceControl.entitlements */,
 				38BA1DF72CC5039E00BE6848 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38BA1E002CC6333F00BE6848 /* HomeView.swift in Sources */,
 				38BA1DF32CC5039A00BE6848 /* ContentView.swift in Sources */,
 				38BA1DF12CC5039A00BE6848 /* GitSourceControlApp.swift in Sources */,
 			);
