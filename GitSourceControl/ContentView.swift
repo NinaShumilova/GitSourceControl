@@ -29,7 +29,8 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @State var string: String = ""
+    @State var title: String = "Hello, world!"
+    
     var body: some View {
         VStack {
             Image(systemName: "heart.fill")
