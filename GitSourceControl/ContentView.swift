@@ -12,14 +12,9 @@ struct ContentView: View {
         VStack {
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
-                .imageScale(.large)
+        
                 .foregroundColor(.accentColor)
             Text("Swiftful Thinking!")
-            Button {
-                
-            } label: {
-            Text("Click me")
-            }
 
         }
         .padding()
