@@ -15,6 +15,12 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Swiftful Thinking!")
+            Button {
+                
+            } label: {
+            Text("Click me")
+            }
+
         }
         .padding()
     }
