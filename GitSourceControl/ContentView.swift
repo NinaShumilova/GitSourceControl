@@ -37,11 +37,11 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @State var title: String = "Hello, world!"
+    @State var title: String = "Hello, Nina!"
     
     var body: some View {
         VStack {
-            Image(systemName: "heart.fill")
+            Image(systemName: "magnifyingglass")
                 .font(.largeTitle)
         
                 .foregroundColor(.accentColor)
