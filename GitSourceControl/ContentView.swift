@@ -37,7 +37,7 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @State var title: String = "Hello, world!"
+    @State var title: String = "Hello, Nina!"
     
     var body: some View {
         VStack {
