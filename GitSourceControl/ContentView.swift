@@ -42,7 +42,7 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @State var title: String = "Hello, Nina!"
+    @State var title: String = "Hello, world!"
     
     var body: some View {
         VStack {

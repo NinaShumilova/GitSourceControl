@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		383178052CD0A7E50051B49C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 383178042CD0A7E40051B49C /* SettingsView.swift */; };
 		38BA1DF12CC5039A00BE6848 /* GitSourceControlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38BA1DF02CC5039A00BE6848 /* GitSourceControlApp.swift */; };
 		38BA1DF32CC5039A00BE6848 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38BA1DF22CC5039A00BE6848 /* ContentView.swift */; };
 		38BA1DF52CC5039E00BE6848 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38BA1DF42CC5039E00BE6848 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		383178042CD0A7E40051B49C /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		38BA1DED2CC5039A00BE6848 /* GitSourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitSourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		38BA1DF02CC5039A00BE6848 /* GitSourceControlApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitSourceControlApp.swift; sourceTree = "<group>"; };
 		38BA1DF22CC5039A00BE6848 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				38BA1DF02CC5039A00BE6848 /* GitSourceControlApp.swift */,
 				38BA1DF22CC5039A00BE6848 /* ContentView.swift */,
 				38BA1DFF2CC6333F00BE6848 /* HomeView.swift */,
+				383178042CD0A7E40051B49C /* SettingsView.swift */,
 				38BA1DF42CC5039E00BE6848 /* Assets.xcassets */,
 				38BA1DF62CC5039E00BE6848 /* GitSourceControl.entitlements */,
 				38BA1DF72CC5039E00BE6848 /* Preview Content */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				38BA1E002CC6333F00BE6848 /* HomeView.swift in Sources */,
+				383178052CD0A7E50051B49C /* SettingsView.swift in Sources */,
 				38BA1DF32CC5039A00BE6848 /* ContentView.swift in Sources */,
 				38BA1DF12CC5039A00BE6848 /* GitSourceControlApp.swift in Sources */,
 			);
