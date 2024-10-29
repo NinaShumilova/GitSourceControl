@@ -54,7 +54,7 @@ struct ContentView: View {
             Button("Clock me!") {
                 
             }
-            .background(Color.red)
+            .background(Color.green)
             Rectangle()
                 .frame(width: 100, height: 100)
         }
