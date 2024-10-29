@@ -46,7 +46,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            Image(systemName: "house")
+            Image(systemName: "heart.fill")
                 .font(.largeTitle)
         
                 .foregroundColor(.accentColor)
