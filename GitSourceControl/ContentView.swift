@@ -51,7 +51,7 @@ struct ContentView: View {
         
                 .foregroundColor(.accentColor)
             Text("Swiftful Thinking!")
-            Button("Clock me!") {
+            Button("Subscribe!") {
                 
             }
             .background(Color.green)
