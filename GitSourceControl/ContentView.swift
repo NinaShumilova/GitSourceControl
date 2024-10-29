@@ -33,6 +33,8 @@
  
  RELEASE:
  [Release] Description of release
+ 
+ //73ff3dea269a99645575a9951d6c9741fb70f4ec identifier of commit
  */
  
 import SwiftUI
@@ -43,11 +45,11 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            Image(systemName: "heart")
+            Image(systemName: "house")
                 .font(.largeTitle)
         
                 .foregroundColor(.accentColor)
-            Text("Swiftful !!!!")
+            Text("Swiftful Thinking!")
             Button("Clock me!") {
                 
             }
