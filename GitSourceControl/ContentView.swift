@@ -46,12 +46,12 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            Image(systemName: "house")
+            Image(systemName: "heart.fill")
                 .font(.largeTitle)
         
                 .foregroundColor(.accentColor)
             Text("Swiftful Thinking!")
-            Button("Clock me!") {
+            Button("Subscribe!") {
                 
             }
             .background(Color.green)
