@@ -1,0 +1,9 @@
+# This is a CODEOWNERS file
+# Each line is a file pattern followed by one or more owners.
+
+# Set NinaShumilova as the owner of the entire repository
+*       @NinaShumilova
+
+# You can also specify ownership for specific directories or files, for example:
+# /docs/  @NinaShumilova
+# /src/   @NinaShumilova
