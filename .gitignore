@@ -1,0 +1,46 @@
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+*.xcuserdata/
+*.xccheckout
+*.xcuserstate
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcuserdata/*.xcuserdatad/
+
+# Swift Package Manager
+/.build/
+/Package.resolved
+/Packages/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Archive files
+*.xcarchive
+
+# User-specific files
+*.user
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Other
+*.DS_Store
+*.log
+*.tmp
+*.tmp/
+*.tgz
+*.zip
+*.tar.gz
+*.tgz
+
+# Documentation
+Docs/
