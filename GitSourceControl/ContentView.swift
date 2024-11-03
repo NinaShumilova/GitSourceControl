@@ -26,7 +26,7 @@
  Gitignore
  README
  Release, Tags, Versioning
- 
+ "GIT Flow"
  
  NEW FUTURE:
  [Feature] Description of the future
